@@ -1,6 +1,6 @@
 # calcit
 
-A new Flutter project.
+A simple calculator app.
 
 ## Getting Started
 
